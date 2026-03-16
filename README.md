@@ -2,6 +2,12 @@
 
 This project presents a SQL-based data quality analysis and validation framework built in SQL Server using the Olist Brazilian e-commerce dataset.
 
+## Notebook View
+
+To view the final notebook in a reader-friendly format, use the link below:
+
+[View the notebook in nbviewer](https://nbviewer.org/github/grabarzp/olist_data_quality/blob/main/notebooks/olist_data_quality.ipynb)
+
 ## Project Structure
 - `sql/01_create_schema.sql` – database schema and table definitions
 - `sql/02_bulk_insert.sql` – bulk data loading script
