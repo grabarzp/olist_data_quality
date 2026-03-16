@@ -4,7 +4,7 @@ This project presents a SQL-based data quality analysis and validation framework
 
 ## Notebook View
 
-To view the final notebook in a reader-friendly format, use the link below:
+To view the final notebook, use the link below:
 
 [View the notebook in nbviewer](https://nbviewer.org/github/grabarzp/olist_data_quality/blob/main/notebooks/olist_data_quality.ipynb)
 
