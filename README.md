@@ -6,7 +6,7 @@ This project presents a SQL-based data quality analysis and validation framework
 
 To view the final notebook, use the link below:
 
-[View the notebook in Google Colab](https://colab.research.google.com/github/grabarzp/olist_data_quality/blob/main/notebooks/olist_data_quality.ipynb)
+[Open the notebook on GitHub](https://github.com/grabarzp/olist_data_quality/blob/main/notebooks/olist_data_quality.ipynb)
 
 ## Project Structure
 - `sql/01_create_schema.sql` – database schema and table definitions
